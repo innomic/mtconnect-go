@@ -1,0 +1,4 @@
+* linguist-vendored
+schema/** linguist-generated=false
+schema/** linguist-vendored=false
+schema/codegen.sh linguist-vendored
